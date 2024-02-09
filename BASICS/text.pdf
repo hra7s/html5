@@ -1,0 +1,21 @@
+tag  --> starting tag and ending tag (<> </>)
+Element --> <Starting tag >Text Content </Ending Tag>
+
+Heading Element  <h1></h1>
+
+Block level Element  
+        1. always starts from new line 
+        2. It occupies Entire width of the page 
+
+Inline Element
+        1. It occupies only required Width. 
+        2. not neccessary to start it from new line
+6-2-2024 
+
+Attributes --> The additional information passed to a Element .need to define it in a starting tag 
+
+Void Elements -->Self closig Tags are known as Void Elements
+
+Absolute path: external path
+Relative path : local path 
+
